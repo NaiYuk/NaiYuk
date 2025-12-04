@@ -13,7 +13,7 @@
 ## 🚀 Frameworks / Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,laravel,react,nextjs,flutter,androidstudio,vscode,vercel,notion,figma" />
+  <img src="https://skillicons.dev/icons?i=spring,laravel,jquery,react,nextjs,flutter,androidstudio,vscode,vercel,notion,figma" />
 </p>
   
 ## 🔥 Most Used Launguages & GitHub Stats
