@@ -1,24 +1,13 @@
-## Hi there 👋
+## Profile
+- 04 he/him
+- Aichi, Japan
 
-<p align="left"> 
-  <img alt="Top Langs" style="height:150px; vertical-align:middle;"
-   src="https://github-readme-stats-git-master-ithank1818-1057s-projects.vercel.app/api/top-langs/?username=NaiYuk&layout=compact&show_icons=true&theme=dark" />
+
+## Programming Languages  
+<p align="left">
+  <img alt="Top Langs" height="150px"
+   src="https://github-readme-stats-five-rho-94.vercel.app/api/top-langs/?username=NaiYuk&layout=compact&show_icons=true&theme=dark" />
   
-   <img alt="github stats" style="height:150px; vertical-align:middle;"
-   src="https://github-readme-stats-git-master-ithank1818-1057s-projects.vercel.app/api?username=NaiYuk&theme=merko&show_icons=true" />
+   <img alt="github stats" height="150px"
+   src="https://github-readme-stats-five-rho-94.vercel.app/api?username=NaiYuk&theme=dark&show_icons=true" />
  </p>
-
-<!--
-**NaiYuk/NaiYuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
