@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaiYuk&layout=compact
-)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" style="height:150px; vertical-align:middle;"
+   src="https://github-readme-stats-git-master-ithank1818-1057s-projects.vercel.app/api/top-langs/?username=NaiYuk&layout=compact&show_icons=true&theme=dark" />
+  
+   <img alt="github stats" style="height:150px; vertical-align:middle;"
+   src="https://github-readme-stats-git-master-ithank1818-1057s-projects.vercel.app/api?username=NaiYuk&theme=merko&show_icons=true" />
+ </p>
 
 <!--
 **NaiYuk/NaiYuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
